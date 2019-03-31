@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Youngkuk Kim"
-  avatar           : "assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "과학, 공학"
   location         : "서울 혹은 수원"
   email            : "kyk1047715@gmail.com"
