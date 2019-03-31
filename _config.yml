@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Youngkuk Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "과학, 공학"
   location         : "Somewhere"
-  email            :
+  email            : "kyk1047715@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
